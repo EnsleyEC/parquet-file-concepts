@@ -31,6 +31,8 @@
     - This setup was create in Python 3.8 but another version can be used
 - [make](https://www.computerhope.com/unix/umake.htm)
     - You can use `make help` to see all commands availables.
+- [pip](https://pypi.org/project/pip/)
+    - It has been used to install all dependencies
 
 
 ## Deploy
