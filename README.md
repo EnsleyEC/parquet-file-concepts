@@ -43,7 +43,7 @@ It's a option if you can to execute in your computer.
     
         make deploy
     
-2. After that, you can access jupyter notebooks on http://localhost:8888/ and check the file (parquet_concepts.ipynb)
+2. After that, you can access jupyter notebooks on http://localhost:8888/ link generate in terminal with `token` and check the file (parquet_concepts.ipynb)
 
 ## Result
 
